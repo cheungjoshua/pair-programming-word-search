@@ -1,7 +1,3 @@
-// make one horizonJoin function return arry of string
-//make one verticalJoin function return arry of string
-// use the wordSearch check array
-
 const verJoin = function (matrix) {
   let newArr = [];
 
